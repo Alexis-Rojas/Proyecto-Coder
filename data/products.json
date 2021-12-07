@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Apple iPhone 12",
+            "image": "/images/products/Smartphone/Iphone1.jpg",
+            "price": 760,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Asus Headphone",
+            "image": "./images/products/headphone/Headphone1.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Apple iPhone 12 Pro",
+            "image": "./images/products/Smartphone/Iphone4.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Apple iPhone 12 Pro Max",
+            "image": "./images/products/Smartphone/Iphone2.jpg",
+            "price": 290,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Astro Headphones",
+            "image": "./images/products/headphone/Headphone2.jpg",
+            "price": 250,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Rog Headphones",
+            "image": "./images/products/headphone/Headphone3.jpg",
+            "price": 365,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Apple iPhone 13",
+            "image": "./images/products/Smartphone/Iphone3.jpg",
+            "price": 385,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Audeze Headphones",
+            "image": "./images/products/headphone/Headphone4.jpg",
+            "price": 475,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Apple iPhone 13 Pro",
+            "image": "./images/products/Smartphone/Iphone3.jpg",
+            "price": 800,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Bose Headphones",
+            "image": "./images/products/headphone/Headphone5.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Corsair Headphones",
+            "image": "./images/products/headphone/Headphone6.jpg",
+            "price": 360,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Logitech Headphones",
+            "image": "./images/products/headphone/Headphone7.jpg",
+            "price": 320,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Atro TR40 Heaphones",
+            "image": "./images/products/headphone/Headphone8.jpg",
+            "price": 305,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Samsung Note 20",
+            "image": "./images/products/Samsung/Samsung1.jpg",
+            "price": 400,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "Samsung Galaxy S20 FE",
+            "image": "./images/products/Samsung/Samsung2.jpg",
+            "price": 550,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Apple iPhone 13 Pro Max",
+            "image": "./images/products/Smartphone/Iphone3.jpg",
+            "price": 300,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Logitech flight Headphones",
+            "image": "./images/products/headphone/Headphone9.jpg",
+            "price": 630,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Samsung Galaxy S20 Ultra",
+            "image": "./images/products/Samsung/Samsung3.jpg",
+            "price": 270,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Auriculares Logitech g435",
+            "image": "./images/products/headphone/Headphone10.jpg",
+            "price": 250,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Auriculares Logitech g733",
+            "image": "./images/products/headphone/Headphone11.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Samsung Galaxy s21",
+            "image": "/images/products/Samsung/Samsung4.jpg",
+            "price": 500,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Cougar Headphones",
+            "image": "./images/products/headphone/Headphone12.jpg",
+            "price": 700,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "Samsung Galaxy S21+",
+            "image": "./images/products/Samsung/Samsung5.jpg",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Samsung Galaxy S21 Ultra",
+            "image": "./images/products/Samsung/Samsung6.jpg",
+            "price": 460,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "JBL Headphone",
+            "image": "./images/products/headphone/Headphone13.jpg",
+            "price": 600,
+            "category": "Featured Products"
+        }
+
+    ]
+}
